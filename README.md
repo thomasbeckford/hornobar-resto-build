@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Hornobar
 
+### This application was made with Typescript, MongoDB, GraphQL and NodeJS.
+
 https://hornobar.com
 
 ![alt text](https://github.com/thomasbeckford/hornobar-resto-build/blob/master/public/hornobar.png?raw=true)
