@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Hornobar
 
-### This application was made with Typescript, Node and Graphql
-### DATABASE: MongoDB
+### This application was made with Typescript, ReactJS ,MongoDB, Node and Graphql
 
 https://hornobar.com
 
